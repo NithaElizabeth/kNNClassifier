@@ -3,6 +3,9 @@ K-Nearest Neighbors is a non-parametric, supervised machine learning algorithm i
 ## Result
 After testing the model, it was observed that the error of the model varied with every digits.The error varied for dierent values of k. The digits like 1 and 7, 0 and 8 were more likely to be mis-classified when compared to digits like 2 and 6,3 and 5 etc. The Figure shows the error and accuracy histograms for various digits for different values of k.
 (NOTE:In the plot digit 10 corresponds to digit 0.)
+
+![1](https://user-images.githubusercontent.com/47361086/112376927-8b34b080-8cfe-11eb-8b7f-2a29b688f1c7.PNG)
+
 ## Installation and Running Procedure
 This program requires a working MATLAB installation.
 To run this program clone this repository into your workspace
